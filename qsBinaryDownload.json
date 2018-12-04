@@ -11,12 +11,12 @@
         },
         {
             "name": "Qlik Sense September 2018 Patch 2",
-            "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/2/_MSI/Qlik_Sense_update.exe"
+            "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/2/_MSI/Qlik_Sense_update.exe",
             "url2": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/0/_MSI/Qlik_Sense_setup.exe"
         },
         {
             "name": "Qlik Sense September 2018 Patch 1",
-            "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/1/_MSI/Qlik_Sense_update.exe"
+            "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/1/_MSI/Qlik_Sense_update.exe",
             "url2": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.36/0/_MSI/Qlik_Sense_setup.exe"
         },
         {
@@ -27,7 +27,7 @@
             "name": "Qlik Sense June 2018 Patch 1",
             "url" :"https://da3hntz84uekx.cloudfront.net/QlikSense/12.26/1/_MSI/Qlik_Sense_update.exe",
             "url2": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.26.1/0/_MSI/Qlik_Sense_setup.exe"
-        }
+        },
         {
             "name": "Qlik Sense June 2018",
             "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.26.1/0/_MSI/Qlik_Sense_setup.exe"
