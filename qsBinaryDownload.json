@@ -1,6 +1,30 @@
 {
     "qliksense": [
 	    	{	
+		    	"name": "Qlik Sense November 2021 Patch 4",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/4/_MSI/Qlik_Sense_update.exe"    
+	    	},
+	    	{	
+		    	"name": "Qlik Sense November 2021 Patch 3",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/3/_MSI/Qlik_Sense_update.exe"    
+	    	},
+	    	{	
+		    	"name": "Qlik Sense November 2021 Patch 2",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/2/_MSI/Qlik_Sense_update.exe"    
+	    	},
+	    	{	
+		    	"name": "Qlik Sense November 2021 Patch 1",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/1/_MSI/Qlik_Sense_update.exe"    
+	    	},
+	    	{	
+		    	"name": "Qlik Sense November 2021",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/0/_MSI/Qlik_Sense_setup.exe"    
+	    	},
+	  	{	
+		    	"name": "Qlik Sense August 2021",
+			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.28/0/_MSI/Qlik_Sense_setup.exe"    
+	    	},
+	    	{	
 		    	"name": "Qlik Sense May 2021",
 			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.20/0/_MSI/Qlik_Sense_setup.exe"    
 	    	},
