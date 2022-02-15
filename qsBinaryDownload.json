@@ -1,6 +1,10 @@
 {
     "qliksense": [
 	    	{	
+		    "name": "Qlik Sense February 2022",
+			"url": "https://github.com/qlik-download/qlik-sense-server/releases/download/v14.54.2/Qlik_Sense_setup.exe"    
+	    	},
+	    	{	
 		    	"name": "Qlik Sense November 2021 Patch 4",
 			"url": "https://da3hntz84uekx.cloudfront.net/QlikSense/14.44/4/_MSI/Qlik_Sense_update.exe"    
 	    	},
