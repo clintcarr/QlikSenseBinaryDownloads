@@ -110,6 +110,11 @@
             "name": "Qlik Sense February 2019",
             "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/13.91/0/_MSI/Qlik_Sense_setup.exe"
         },
+	{
+            "name": "Qlik Sense November 2018 Patch 2",
+            "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.44/2/_MSI/Qlik_Sense_update.exe",
+            "url2": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.44/0/_MSI/Qlik_Sense_setup.exe"
+        },
         {
             "name": "Qlik Sense November 2018 Patch 1",
             "url": "https://da3hntz84uekx.cloudfront.net/QlikSense/12.44/1/_MSI/Qlik_Sense_update.exe",
